@@ -43,9 +43,9 @@ I enjoy working across the stack, from embedded systems to 3D concept art:
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vue" alt="Allen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allenbateman&show_icons=true&theme=vue" alt="Allen's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vue" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenbateman&layout=compact&theme=vue" alt="Top Languages" />
 </p>
