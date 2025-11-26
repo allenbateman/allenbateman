@@ -39,9 +39,3 @@ I enjoy working across the stack, from embedded systems to 3D concept art:
 * 💼 **LinkedIn:** [www.linkedin.com/in/allen-bateman-neubert-b5ba64167]
 
 ---
-
-### 📈 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenbateman&layout=compact&theme=vue" alt="Allen Bateman Top Languages" />
-</p>
