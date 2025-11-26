@@ -4,7 +4,7 @@
 
 I am a Software Engineer based in Vienna, currently specializing in building and integrating **robust backend systems**. I combine a solid foundation in clean code architecture with a genuine passion for the world of **Game Development**.
 
-My experience includes engineering complex solutions—such as an Email Centralization System using PHP/MariaDB and an IoT Water Level Monitoring System with Arduino and AWS. I am now focused on leveraging these strong engineering skills to create immersive experiences using **Unity** and **Unreal Engine**.
+My experience includes engineering complex solutions, such as an Calendar Centralization System using PHP/MariaDB and an IoT Water Level Monitoring System with Arduino and AWS. I am now focused on leveraging these strong engineering skills to create immersive experiences using **Unity** and **Unreal Engine**.
 
 ---
 
